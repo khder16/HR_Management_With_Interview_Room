@@ -36,6 +36,7 @@ and it allows the HR to add and delete and update the Employees and their Depart
 ## Notes
 
 You can try the video chat:
+
 1- Run the code by npm start and go to localhost:3000
 
 2- You can test the client-side video by copying the invitation link using the copy button and pasting it into a new browser tab's URL.
